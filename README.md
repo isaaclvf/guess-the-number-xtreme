@@ -2,6 +2,8 @@
 
 Jogo de adivinhação iterativo desenvolvido no Logisim
 
+![Funcionamento do jogo principal](/img/main.gif "Funcionamento do jogo principal")
+
 ## Conteúdo do Repositório
 
 1. `relatorio.md`: Este arquivo contém um relatório detalhado sobre o projeto, incluindo a mecânica do jogo, os componentes utilizados e o fluxo geral do jogo. Você pode acessar o relatório [aqui](relatorio.md).
